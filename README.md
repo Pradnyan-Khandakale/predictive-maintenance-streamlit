@@ -1,34 +1,22 @@
 Predictive Maintenance for Machine Manufacturing
 Overview
-
 This project implements an end-to-end Predictive Maintenance system for manufacturing machines using machine learning and an interactive Streamlit dashboard.
-
 The system analyzes time-series sensor data (temperature, vibration, pressure, RPM) to predict machine failure risk and help prevent unplanned downtime.
 
 Key Features
-
 Multi-machine support (M1, M2, M3)
-
 Predictive failure modeling using:
-
 Random Forest
-
 XGBoost
-
 Time-series feature engineering (rolling statistics, lag features)
 
 Risk classification:
-
 LOW
-
 MEDIUM
-
 HIGH
 
 Interactive Streamlit UI
-
 Deployable on Streamlit Community Cloud
-
 Industry-aligned ML pipeline
 Dataset Description
 
